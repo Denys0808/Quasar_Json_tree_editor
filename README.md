@@ -111,4 +111,4 @@ If you appreciate the work that went into this project, please consider [donatin
 
 # License
 
-MIT (c) singerla <tsinger@gmx.de>
+[Denys0808](https://github.com/Denys0808)
